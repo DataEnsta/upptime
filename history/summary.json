@@ -124,7 +124,7 @@
     "timeMonth": 514,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2023-07-17": 9
+      "2023-07-17": 18
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 503,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-07-17": 9
+      "2023-07-17": 18
     }
   },
   {
@@ -164,7 +164,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 9
+      "2023-07-17": 20
     }
   },
   {
@@ -328,7 +328,7 @@
     "timeMonth": 3584,
     "timeYear": 3584,
     "dailyMinutesDown": {
-      "2023-07-17": 8
+      "2023-07-17": 18
     }
   },
   {
@@ -384,7 +384,7 @@
     "timeMonth": 4224,
     "timeYear": 4224,
     "dailyMinutesDown": {
-      "2023-07-17": 8
+      "2023-07-17": 17
     }
   },
   {
@@ -404,7 +404,7 @@
     "timeMonth": 2637,
     "timeYear": 2637,
     "dailyMinutesDown": {
-      "2023-07-17": 8
+      "2023-07-17": 17
     }
   },
   {
@@ -413,16 +413,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/t.ensta.fr.ico",
     "slug": "tiny-ensta",
     "status": "up",
-    "uptime": "70.19%",
-    "uptimeDay": "70.19%",
-    "uptimeWeek": "70.19%",
-    "uptimeMonth": "70.19%",
-    "uptimeYear": "70.19%",
-    "time": 1536,
-    "timeDay": 1536,
-    "timeWeek": 1536,
-    "timeMonth": 1536,
-    "timeYear": 1536,
+    "uptime": "99.42%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 1690,
+    "timeDay": 1690,
+    "timeWeek": 1690,
+    "timeMonth": 1690,
+    "timeYear": 1690,
     "dailyMinutesDown": {
       "2023-07-17": 0
     }
@@ -433,16 +433,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vote.data-ensta.fr.ico",
     "slug": "tiny-ensta",
     "status": "up",
-    "uptime": "70.52%",
-    "uptimeDay": "70.52%",
-    "uptimeWeek": "70.52%",
-    "uptimeMonth": "70.52%",
-    "uptimeYear": "70.52%",
-    "time": 1536,
-    "timeDay": 1536,
-    "timeWeek": 1536,
-    "timeMonth": 1536,
-    "timeYear": 1536,
+    "uptime": "99.42%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 1690,
+    "timeDay": 1690,
+    "timeWeek": 1690,
+    "timeMonth": 1690,
+    "timeYear": 1690,
     "dailyMinutesDown": {
       "2023-07-17": 0
     }
