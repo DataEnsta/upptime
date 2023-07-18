@@ -22,8 +22,9 @@ sites:
     url: https://bde.data-ensta.fr
   - name: BDS
     url: https://bds.data-ensta.fr
-  - name: EnsTAgram
-    url: https://enstagram.data-ensta.fr
+#  - name: EnsTAgram
+#    url: https://enstagram.data-ensta.fr
+#    expectedStatusCodes: 302
   - name: EnsTAir
     url: https://enstair.data-ensta.fr
   - name: Etudes
@@ -52,7 +53,7 @@ sites:
     url: https://t.ensta-paris.fr
   - name: Tiny - ENSTA
     url: https://t.ensta.fr
-  - name: Tiny - ENSTA
+  - name: Vote
     url: https://vote.data-ensta.fr
   - name: Wiki
     url: https://wiki.data-ensta.fr
