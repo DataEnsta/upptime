@@ -2,9 +2,6 @@
 owner: DataEnsta # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
-assignees:
-  - Seb-sti1
-
 sites:
   - name: DaTA
     url: https://data-ensta.fr
@@ -12,6 +9,8 @@ sites:
     url: https://gitlab.data-ensta.fr
   - name: ETAl
     url: https://etal.data-ensta.fr
+    assignees:
+      - Seb-sti1
   - name: Angry
     url: https://angry.data-ensta.fr
   - name: Bar
@@ -22,9 +21,10 @@ sites:
     url: https://bde.data-ensta.fr
   - name: BDS
     url: https://bds.data-ensta.fr
-#  - name: EnsTAgram
-#    url: https://enstagram.data-ensta.fr
-#    expectedStatusCodes: 302
+  - name: EnsTAgram
+    url: https://enstagram.data-ensta.fr
+    expectedStatusCodes: 302
+    verbose: true
   - name: EnsTAir
     url: https://enstair.data-ensta.fr
   - name: Etudes
@@ -61,6 +61,10 @@ sites:
     url: https://wikita.data-ensta.fr
   - name: Zeus
     url: https://zeus.data-ensta.fr
+  - name: Technimage
+    url: $TECHNIMAGE
+  - name: BDE - développement
+    url: $BDE_TEMP
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
