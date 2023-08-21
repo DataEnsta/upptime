@@ -23,7 +23,8 @@ sites:
     url: https://bds.data-ensta.fr
   - name: EnsTAgram
     url: https://enstagram.data-ensta.fr
-    expectedStatusCodes: 302
+    expectedStatusCodes:
+      - 302
     verbose: true
     maxRedirects: 0
   - name: EnsTAir
