@@ -25,7 +25,6 @@ sites:
     url: https://enstagram.data-ensta.fr
     expectedStatusCodes:
       - 302
-    verbose: true
     maxRedirects: 0
   - name: EnsTAir
     url: https://enstair.data-ensta.fr
