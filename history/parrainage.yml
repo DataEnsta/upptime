@@ -1,7 +1,7 @@
 url: https://parrainage.data-ensta.fr
-status: up
-code: 200
-responseTime: 775
-lastUpdated: 2023-09-10T14:46:53.996Z
+status: down
+code: 502
+responseTime: 784
+lastUpdated: 2023-09-10T17:39:16.671Z
 startTime: 2023-07-17T22:48:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
