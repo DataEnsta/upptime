@@ -26,6 +26,8 @@ sites:
     expectedStatusCodes:
       - 302
     maxRedirects: 0
+  - name: Cascad
+    url: https://cascad.ensta.fr/login
   - name: EnsTAir
     url: https://enstair.data-ensta.fr
   - name: Etudes
