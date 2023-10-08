@@ -1,7 +1,7 @@
 url: https://gala.data-ensta.fr
-status: down
-code: 502
-responseTime: 19513
-lastUpdated: 2023-10-08T13:47:38.328Z
+status: up
+code: 200
+responseTime: 2752
+lastUpdated: 2023-10-08T13:57:00.323Z
 startTime: 2023-07-17T22:48:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
