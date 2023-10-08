@@ -1,7 +1,7 @@
 url: https://bar.data-ensta.fr
-status: up
-code: 200
-responseTime: 691
-lastUpdated: 2023-10-07T23:13:46.807Z
+status: down
+code: 502
+responseTime: 19481
+lastUpdated: 2023-10-08T13:46:07.194Z
 startTime: 2023-07-17T22:47:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
