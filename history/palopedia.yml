@@ -1,7 +1,7 @@
 url: https://palopedia.data-ensta.fr
-status: up
-code: 200
-responseTime: 526
-lastUpdated: 2023-10-09T23:14:55.975Z
+status: down
+code: 502
+responseTime: 533
+lastUpdated: 2023-10-10T21:02:39.160Z
 startTime: 2023-07-17T22:48:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
