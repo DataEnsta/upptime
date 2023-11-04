@@ -1,7 +1,7 @@
 url: https://bashupload.data-ensta.fr
-status: down
-code: 502
-responseTime: 19571
-lastUpdated: 2023-11-04T13:51:21.419Z
+status: up
+code: 200
+responseTime: 1046
+lastUpdated: 2023-11-04T14:05:16.655Z
 startTime: 2023-07-17T22:47:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
