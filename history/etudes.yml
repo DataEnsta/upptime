@@ -1,7 +1,7 @@
 url: https://etudes.data-ensta.fr
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-19T23:20:36.627Z
+code: 502
+responseTime: 3843
+lastUpdated: 2023-11-20T23:16:14.721Z
 startTime: 2023-07-17T22:48:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
