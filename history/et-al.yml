@@ -1,7 +1,7 @@
 url: https://etal.data-ensta.fr
-status: down
-code: 503
-responseTime: 1056
-lastUpdated: 2023-11-26T14:27:53.487Z
+status: up
+code: 200
+responseTime: 695
+lastUpdated: 2023-11-26T15:42:49.859Z
 startTime: 2023-07-17T22:47:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
