@@ -9,8 +9,6 @@ sites:
     url: https://gitlab.data-ensta.fr
   - name: ETAl
     url: https://etal.data-ensta.fr
-    assignees:
-      - Seb-sti1
   - name: Angry
     url: https://angry.data-ensta.fr
   - name: Bar
