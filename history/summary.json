@@ -4,19 +4,19 @@
     "url": "https://data-ensta.fr",
     "icon": "https://icons.duckduckgo.com/ip3/data-ensta.fr.ico",
     "slug": "da-ta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "92.65%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "96.07%",
+    "uptimeDay": "92.54%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "99.41%",
     "time": 1068,
     "timeDay": 1038,
     "timeWeek": 1056,
-    "timeMonth": 1065,
+    "timeMonth": 1066,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2024-04-28": 105,
+      "2024-04-28": 107,
       "2024-04-27": 21,
       "2024-04-26": 96,
       "2024-04-24": 39,
@@ -56,8 +56,7 @@
       "2024-03-10": 21,
       "2024-03-02": 18,
       "2024-02-26": 19,
-      "2024-02-25": 18,
-      "2024-02-24": 18
+      "2024-02-25": 18
     }
   },
   {
@@ -65,19 +64,19 @@
     "url": "https://gitlab.data-ensta.fr",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.data-ensta.fr.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "92.82%",
-    "uptimeWeek": "96.30%",
+    "uptimeDay": "92.74%",
+    "uptimeWeek": "96.29%",
     "uptimeMonth": "96.79%",
     "uptimeYear": "99.38%",
     "time": 881,
     "timeDay": 780,
     "timeWeek": 808,
-    "timeMonth": 902,
+    "timeMonth": 904,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2024-04-28": 104,
+      "2024-04-28": 105,
       "2024-04-27": 20,
       "2024-04-26": 95,
       "2024-04-24": 38,
@@ -125,7 +124,7 @@
       "2024-02-17": 16,
       "2024-02-12": 215,
       "2024-02-11": 80,
-      "2024-02-10": 44
+      "2024-02-10": 27
     }
   },
   {
@@ -221,7 +220,7 @@
     "time": 1899,
     "timeDay": 1628,
     "timeWeek": 1745,
-    "timeMonth": 1792,
+    "timeMonth": 1796,
     "timeYear": 1899,
     "dailyMinutesDown": {
       "2024-04-28": 79,
@@ -466,7 +465,7 @@
     "timeMonth": 1315,
     "timeYear": 1026,
     "dailyMinutesDown": {
-      "2024-04-28": 1221,
+      "2024-04-28": 1233,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
@@ -621,7 +620,7 @@
     "timeMonth": 789,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2024-04-28": 1222,
+      "2024-04-28": 1233,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
@@ -821,7 +820,7 @@
     "timeMonth": 712,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2024-04-28": 1222,
+      "2024-04-28": 1233,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
@@ -1417,7 +1416,7 @@
     "timeMonth": 3747,
     "timeYear": 2878,
     "dailyMinutesDown": {
-      "2024-04-28": 1222,
+      "2024-04-28": 1233,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
@@ -1945,7 +1944,7 @@
     "timeMonth": 659,
     "timeYear": 1179,
     "dailyMinutesDown": {
-      "2024-04-28": 1222,
+      "2024-04-28": 1234,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
