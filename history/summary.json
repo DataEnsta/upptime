@@ -6,9 +6,9 @@
     "slug": "da-ta",
     "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "66.44%",
+    "uptimeDay": "65.60%",
     "uptimeWeek": "82.75%",
-    "uptimeMonth": "93.18%",
+    "uptimeMonth": "93.15%",
     "uptimeYear": "99.32%",
     "time": 1064,
     "timeDay": 1142,
@@ -16,7 +16,7 @@
     "timeMonth": 1058,
     "timeYear": 1064,
     "dailyMinutesDown": {
-      "2024-05-19": 433,
+      "2024-05-19": 445,
       "2024-05-18": 270,
       "2024-05-17": 126,
       "2024-05-16": 142,
@@ -37,19 +37,19 @@
     "url": "https://gitlab.data-ensta.fr",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.data-ensta.fr.ico",
     "slug": "gitlab",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "72.34%",
-    "uptimeWeek": "86.76%",
-    "uptimeMonth": "93.49%",
-    "uptimeYear": "99.35%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "72.20%",
+    "uptimeWeek": "86.86%",
+    "uptimeMonth": "93.52%",
+    "uptimeYear": "99.36%",
     "time": 894,
     "timeDay": 1046,
     "timeWeek": 901,
     "timeMonth": 915,
     "timeYear": 894,
     "dailyMinutesDown": {
-      "2024-05-19": 368,
+      "2024-05-19": 370,
       "2024-05-18": 177,
       "2024-05-17": 97,
       "2024-05-16": 111,
@@ -67,7 +67,7 @@
       "2024-05-04": 45,
       "2024-05-03": 217,
       "2024-05-02": 146,
-      "2024-05-01": 67
+      "2024-05-01": 50
     }
   },
   {
@@ -75,11 +75,11 @@
     "url": "https://etal.data-ensta.fr",
     "icon": "https://icons.duckduckgo.com/ip3/etal.data-ensta.fr.ico",
     "slug": "et-al",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "78.69%",
-    "uptimeWeek": "89.74%",
-    "uptimeMonth": "93.89%",
+    "uptimeDay": "78.58%",
+    "uptimeWeek": "89.85%",
+    "uptimeMonth": "93.88%",
     "uptimeYear": "99.38%",
     "time": 896,
     "timeDay": 792,
@@ -87,7 +87,7 @@
     "timeMonth": 890,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2024-05-19": 307,
+      "2024-05-19": 308,
       "2024-05-18": 149,
       "2024-05-17": 74,
       "2024-05-16": 107,
@@ -116,7 +116,7 @@
       "2024-04-21": 128,
       "2024-04-20": 66,
       "2024-04-19": 34,
-      "2024-04-18": 37
+      "2024-04-18": 18
     }
   },
   {
@@ -127,7 +127,7 @@
     "status": "up",
     "uptime": "99.44%",
     "uptimeDay": "83.19%",
-    "uptimeWeek": "92.75%",
+    "uptimeWeek": "92.81%",
     "uptimeMonth": "95.31%",
     "uptimeYear": "99.44%",
     "time": 1858,
@@ -381,7 +381,7 @@
     "timeMonth": 675,
     "timeYear": 1004,
     "dailyMinutesDown": {
-      "2024-05-19": 1250,
+      "2024-05-19": 1262,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
@@ -557,7 +557,7 @@
     "timeMonth": 736,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2024-05-19": 1250,
+      "2024-05-19": 1262,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
@@ -778,7 +778,7 @@
     "timeMonth": 707,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2024-05-19": 1250,
+      "2024-05-19": 1262,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
@@ -1419,7 +1419,7 @@
     "timeMonth": 3743,
     "timeYear": 2931,
     "dailyMinutesDown": {
-      "2024-05-19": 1250,
+      "2024-05-19": 1262,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
@@ -2018,7 +2018,7 @@
     "timeMonth": 655,
     "timeYear": 1143,
     "dailyMinutesDown": {
-      "2024-05-19": 1250,
+      "2024-05-19": 1262,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
