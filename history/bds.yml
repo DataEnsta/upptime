@@ -1,7 +1,7 @@
-url: https://bds.data-ensta.fr
+url: https://bds.ensta-paris.fr
 status: down
-code: 404
-responseTime: 733
-lastUpdated: 2024-07-01T23:17:06.213Z
+code: 503
+responseTime: 619
+lastUpdated: 2024-07-02T21:38:31.088Z
 startTime: 2023-07-17T22:47:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
