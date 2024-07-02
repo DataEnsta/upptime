@@ -1,7 +1,7 @@
-url: https://bde.data-ensta.fr
+url: https://bde.ensta-paris.fr
 status: down
-code: 404
-responseTime: 635
-lastUpdated: 2024-07-01T23:17:05.093Z
+code: 503
+responseTime: 895
+lastUpdated: 2024-07-02T21:38:30.083Z
 startTime: 2023-07-17T22:47:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
