@@ -16,14 +16,11 @@ sites:
   - name: Bashupload
     url: https://bashupload.data-ensta.fr
   - name: BDE
-    url: https://bde.data-ensta.fr
+    url: https://bde.ensta-paris.fr
   - name: BDS
-    url: https://bds.data-ensta.fr
+    url: https://bds.ensta-paris.fr
   - name: EnsTAgram
     url: https://enstagram.data-ensta.fr
-    expectedStatusCodes:
-      - 302
-    maxRedirects: 0
   - name: Cascad
     url: https://cascad.ensta.fr/login
   - name: EnsTAir
@@ -64,8 +61,6 @@ sites:
     url: https://zeus.data-ensta.fr
   - name: Technimage
     url: $TECHNIMAGE
-  - name: BDE - développement
-    url: $BDE_TEMP
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
