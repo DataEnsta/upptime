@@ -1,7 +1,7 @@
 url: https://vote.data-ensta.fr
-status: up
-code: 200
-responseTime: 900
-lastUpdated: 2025-03-07T10:42:47.053Z
+status: down
+code: 502
+responseTime: 4220
+lastUpdated: 2025-03-07T11:19:54.747Z
 startTime: 2023-07-18T07:24:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
