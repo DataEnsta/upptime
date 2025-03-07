@@ -1,7 +1,7 @@
 url: https://staytuned.data-ensta.fr
-status: up
-code: 200
-responseTime: 861
-lastUpdated: 2025-03-07T10:42:40.684Z
+status: down
+code: 502
+responseTime: 4075
+lastUpdated: 2025-03-07T11:19:37.457Z
 startTime: 2023-07-17T22:48:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
