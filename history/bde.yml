@@ -1,7 +1,7 @@
 url: https://bde.ensta-paris.fr
-status: up
-code: 200
-responseTime: 5424
-lastUpdated: 2025-03-07T10:42:22.050Z
+status: down
+code: 502
+responseTime: 4398
+lastUpdated: 2025-03-07T11:17:50.235Z
 startTime: 2023-07-17T22:47:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
