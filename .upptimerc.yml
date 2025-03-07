@@ -39,8 +39,6 @@ sites:
     url: https://markdown.data-ensta.fr
   - name: Palopedia
     url: https://palopedia.data-ensta.fr
-  - name: Parrainage
-    url: https://parrainage.data-ensta.fr
   - name: Runner
     url: https://runner.data-ensta.fr
   - name: Staytuned
