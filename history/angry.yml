@@ -1,7 +1,7 @@
 url: https://angry.data-ensta.fr
-status: up
-code: 200
-responseTime: 1752
-lastUpdated: 2025-03-07T13:15:12.252Z
+status: down
+code: 502
+responseTime: 19404
+lastUpdated: 2025-03-07T14:57:45.892Z
 startTime: 2023-07-17T22:47:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
