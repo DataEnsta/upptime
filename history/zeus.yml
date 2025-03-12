@@ -1,7 +1,7 @@
 url: https://zeus.data-ensta.fr
-status: up
-code: 200
-responseTime: 657
-lastUpdated: 2025-03-11T23:17:12.448Z
+status: down
+code: 502
+responseTime: 978
+lastUpdated: 2025-03-12T14:44:22.546Z
 startTime: 2023-07-17T22:49:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
