@@ -3,34 +3,38 @@ owner: DataEnsta # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: DaTA
-    url: https://data-ensta.fr
-  - name: Gitlab
-    url: https://gitlab.data-ensta.fr
-  - name: ETAl
-    url: https://etal.data-ensta.fr
   - name: Angry
     url: https://angry.data-ensta.fr
-  - name: Bar
-    url: https://bar.data-ensta.fr
-  - name: Bashupload
-    url: https://bashupload.data-ensta.fr
   - name: BDE
     url: https://bde.ensta-paris.fr
   - name: BDS
     url: https://bds.ensta-paris.fr
-  - name: EnsTAgram
-    url: https://enstagram.data-ensta.fr
+  - name: Bar
+    url: https://bar.data-ensta.fr
+  - name: Bashupload
+    url: https://bashupload.data-ensta.fr
+  - name: Best
+    url: https://best.data-ensta.fr
   - name: Cascad
     url: https://cascad.ensta.fr/login
+  - name: DaTA
+    url: https://data-ensta.fr
+  - name: ETAl
+    url: https://etal.data-ensta.fr
+  - name: EnsTAgram
+    url: https://enstagram.data-ensta.fr
   - name: EnsTAir
     url: https://enstair.data-ensta.fr
+  - name: EnTAblier
+    url: https://entablier.data-ensta.fr
   - name: Etudes
     url: https://etudes.data-ensta.fr
   - name: Flappy
     url: https://flappy.data-ensta.fr
   - name: Gala
     url: https://gala.data-ensta.fr
+  - name: Gitlab
+    url: https://gitlab.data-ensta.fr
   - name: Les lundis - DaTA
     url: https://les-lundis.data-ensta.fr
   - name: Les lundis - ENSTA
@@ -39,10 +43,14 @@ sites:
     url: https://markdown.data-ensta.fr
   - name: Palopedia
     url: https://palopedia.data-ensta.fr
+  - name: Pong
+    url: https://pong.data-ensta.fr
   - name: Runner
     url: https://runner.data-ensta.fr
   - name: Staytuned
     url: https://staytuned.data-ensta.fr
+  - name: Technimage
+    url: $TECHNIMAGE
   - name: Tiny - DaTA
     url: https://t.data-ensta.fr
   - name: Tiny - ENSTA Paris
@@ -57,8 +65,6 @@ sites:
     url: https://wikita.data-ensta.fr
   - name: Zeus
     url: https://zeus.data-ensta.fr
-  - name: Technimage
-    url: $TECHNIMAGE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
