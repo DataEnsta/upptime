@@ -1,7 +1,7 @@
 url: https://runner.data-ensta.fr
-status: down
-code: 502
-responseTime: 19293
-lastUpdated: 2025-03-13T12:38:49.978Z
+status: up
+code: 200
+responseTime: 1872
+lastUpdated: 2025-03-13T16:46:45.386Z
 startTime: 2023-07-17T22:48:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
