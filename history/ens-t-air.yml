@@ -1,7 +1,7 @@
 url: https://enstair.data-ensta.fr
-status: up
-code: 200
-responseTime: 578
-lastUpdated: 2025-03-12T23:17:38.727Z
+status: down
+code: 502
+responseTime: 19227
+lastUpdated: 2025-03-13T12:37:35.009Z
 startTime: 2023-07-17T22:48:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
