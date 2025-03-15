@@ -3,6 +3,8 @@ owner: DataEnsta # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
+  - name: Aled
+    url: https://aled.data-ensta.fr
   - name: Angry
     url: https://angry.data-ensta.fr
   - name: BDE
@@ -23,6 +25,8 @@ sites:
     url: https://etal.data-ensta.fr
   - name: EnsTAgram
     url: https://enstagram.data-ensta.fr
+  - name: EnsTAgram - Drive
+    url: https://enstagram-drive.data-ensta.fr
   - name: EnsTAir
     url: https://enstair.data-ensta.fr
   - name: EnTAblier
