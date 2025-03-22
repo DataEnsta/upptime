@@ -55,6 +55,10 @@ sites:
     url: https://staytuned.data-ensta.fr
   - name: Staytuned (Stream)
     url: https://stream-staytuned.data-ensta.fr  
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Technimage
     url: $TECHNIMAGE
   - name: Tiny - DaTA
