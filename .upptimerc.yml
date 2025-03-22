@@ -53,6 +53,8 @@ sites:
     url: https://runner.data-ensta.fr
   - name: Staytuned
     url: https://staytuned.data-ensta.fr
+  - name: Staytuned (Stream)
+    url: https://stream-staytuned.data-ensta.fr  
   - name: Technimage
     url: $TECHNIMAGE
   - name: Tiny - DaTA
