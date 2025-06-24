@@ -1,7 +1,7 @@
 url: https://markdown.data-ensta.fr
-status: up
-code: 200
-responseTime: 475
-lastUpdated: 2025-06-23T23:17:24.580Z
+status: down
+code: 502
+responseTime: 3494
+lastUpdated: 2025-06-24T18:46:40.570Z
 startTime: 2023-07-17T22:48:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
