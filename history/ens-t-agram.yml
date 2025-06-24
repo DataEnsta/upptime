@@ -1,7 +1,7 @@
 url: https://enstagram.data-ensta.fr
-status: up
-code: 200
-responseTime: 838
-lastUpdated: 2025-06-23T23:17:06.972Z
+status: down
+code: 502
+responseTime: 3741
+lastUpdated: 2025-06-24T18:19:48.340Z
 startTime: 2023-08-21T18:44:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
