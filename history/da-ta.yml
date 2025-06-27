@@ -1,7 +1,7 @@
 url: https://data-ensta.fr
-status: up
-code: 200
-responseTime: 1054
-lastUpdated: 2025-06-26T23:19:53.623Z
+status: down
+code: 502
+responseTime: 12336
+lastUpdated: 2025-06-27T07:46:18.590Z
 startTime: 2023-07-17T22:25:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
