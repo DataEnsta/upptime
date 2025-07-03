@@ -9,8 +9,6 @@ sites:
     url: https://angry.data-ensta.fr
   - name: BDE
     url: https://bde.ensta-paris.fr
-  - name: BDS
-    url: https://bds.ensta-paris.fr
   - name: Bar
     url: https://bar.data-ensta.fr
   - name: Bashupload
@@ -31,13 +29,11 @@ sites:
     url: https://enstair.data-ensta.fr
   - name: EnTAblier
     url: https://entablier.data-ensta.fr
-  - name: Etudes
-    url: https://etudes.data-ensta.fr
   - name: Flappy
     url: https://flappy.data-ensta.fr
   - name: Gala
     url: https://gala.data-ensta.fr
-  - name: Gitlab
+  - name: GitLab
     url: https://gitlab.data-ensta.fr
   - name: Les lundis - DaTA
     url: https://les-lundis.data-ensta.fr
