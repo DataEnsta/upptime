@@ -58,7 +58,7 @@ sites:
   - name: Technimage
     url: $TECHNIMAGE
   - name: Tiny - DaTA
-    url: https://t.data-ensta.fr
+    url: https://tiny.data-ensta.fr
   - name: Tiny - ENSTA Paris
     url: https://t.ensta-paris.fr
   - name: Tiny - ENSTA
