@@ -41,6 +41,8 @@ sites:
     url: https://les-lundis.ensta-paris.fr
   - name: Markdown
     url: https://markdown.data-ensta.fr
+  - name: Overleaf
+    url: https://overleaf.data-ensta.fr
   - name: Palopedia
     url: https://palopedia.data-ensta.fr
   - name: Pong
