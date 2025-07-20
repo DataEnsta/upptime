@@ -31,8 +31,6 @@ sites:
     url: https://entablier.data-ensta.fr
   - name: Flappy
     url: https://flappy.data-ensta.fr
-  - name: Gala
-    url: https://gala.data-ensta.fr
   - name: GitLab
     url: https://gitlab.data-ensta.fr
   - name: Grafana
