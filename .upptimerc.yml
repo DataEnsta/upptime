@@ -35,6 +35,8 @@ sites:
     url: https://gala.data-ensta.fr
   - name: GitLab
     url: https://gitlab.data-ensta.fr
+  - name: Grafana
+    url: https://grafana.data-ensta.fr
   - name: Les lundis - DaTA
     url: https://les-lundis.data-ensta.fr
   - name: Les lundis - ENSTA
