@@ -1,7 +1,7 @@
 url: https://gitlab.data-ensta.fr
-status: up
-code: 200
-responseTime: 765
-lastUpdated: 2025-08-23T23:18:12.315Z
+status: down
+code: 502
+responseTime: 515
+lastUpdated: 2025-08-25T21:49:19.227Z
 startTime: 2025-07-03T20:20:26.576Z
 generator: Upptime <https://github.com/upptime/upptime>
