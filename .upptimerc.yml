@@ -2,77 +2,116 @@
 owner: DataEnsta # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+# Note: this file is used to auto-generate the index page (a list of all the services provided by DaTA).
+# For a site to appear in this index, add a `desc` key with the description of the service (mardkown is supported).
+# Use `desc: false` to prevent a service from appearing in the index.
+
 sites:
   - name: Aled
     url: https://aled.data-ensta.fr
+    desc: "Formulaire d'aide pour les permanences de DaTA."
   - name: Angry
     url: https://angry.data-ensta.fr
+    desc: false
   - name: BDE
     url: https://bde.ensta-paris.fr
+    desc: "Site du BDE de l'ENSTA."
   - name: Bar
     url: https://bar.data-ensta.fr
+    desc: "Permet de consulter votre solde au bar."
   - name: Bashupload
     url: https://bashupload.data-ensta.fr
+    desc: "Hébergement de petits fichier, utilisable depuis une ligne de commande."
   - name: Best
     url: https://best.data-ensta.fr
   - name: Cascad
     url: https://cascad.ensta.fr/login
+    desc: false
   - name: DaTA
     url: https://data-ensta.fr
+    desc: "Site Web de DaTA."
   - name: ETAl
     url: https://etal.data-ensta.fr
+    desc: "Site Web de l'association EcosysT'Aime."
   - name: EnsTAgram
     url: https://enstagram.data-ensta.fr
+    desc: "Portfolio de l'association de photographie de l'ENSTA."
   - name: EnsTAgram - Drive
     url: https://enstagram-drive.data-ensta.fr
+    desc: "Hébergement des photos de l'association Enstagram."
   - name: EnsTAir
     url: https://enstair.data-ensta.fr
+    desc: "Site Web de l'association EnsTAir."
   - name: EnTAblier
     url: https://entablier.data-ensta.fr
+    desc: "Plateforme de gestion des stocks pour l'association EnTAblier."
   - name: Flappy
     url: https://flappy.data-ensta.fr
+    desc: false
   - name: GitLab
     url: https://gitlab.data-ensta.fr
+    desc: "Hébergement de dépôt Git chez DaTA."
   - name: Grafana
     url: https://grafana.data-ensta.fr
+    desc: false
+  - name: Jupyter Hub
+    url: https://jupyter.data-ensta.fr
+    desc: "Édition en ligne de Jupyter Notebooks."
   - name: Les lundis - DaTA
     url: https://les-lundis.data-ensta.fr
+    desc: false
   - name: Les lundis - ENSTA
     url: https://les-lundis.ensta-paris.fr
+    desc: "Site Web des Lundis de l'ENSTA."
   - name: Markdown
     url: https://markdown.data-ensta.fr
+    desc: "Rédigez et partagez des notes au format Markdown en toute simplicité !"
   - name: Overleaf
     url: https://overleaf.data-ensta.fr
+    desc: "Plateforme d'édition de documents LaTeX pour les élèves de l'ENSTA, sans les limitations de [overleaf.com](https://overleaf.com)."
   - name: Palopedia
     url: https://palopedia.data-ensta.fr
+    desc: "Site collaboratif d'annales des examens."
   - name: Pong
     url: https://pong.data-ensta.fr
+    desc: false
   - name: Runner
     url: https://runner.data-ensta.fr
-  - name: Staytuned
+    desc: false
+  - name: StayTuned
     url: https://staytuned.data-ensta.fr
-  - name: Staytuned (Stream)
-    url: https://stream-staytuned.data-ensta.fr  
+    desc: "La radio de l'ENSTA."
+  - name: StayTuned (Stream)
+    url: https://stream-staytuned.data-ensta.fr
+    desc: false
     expectedStatusCodes:
       - 200
       - 201
       - 404
   - name: Technimage
     url: $TECHNIMAGE
-  - name: Tiny - DaTA
+    desc: false
+  - name: Tiny
     url: https://tiny.data-ensta.fr
+    desc: "Raccourcisseur d'URL."
   - name: Tiny - ENSTA Paris
     url: https://t.ensta-paris.fr
+    desc: false
   - name: Tiny - ENSTA
     url: https://t.ensta.fr
+    desc: false
   - name: Vote
     url: https://vote.data-ensta.fr
+    desc: "Site de vote des AG et des campagnes."
   - name: Wiki
     url: https://wiki.data-ensta.fr
+    desc: false
   - name: WikiTA
     url: https://wikita.data-ensta.fr
+    desc: "Le Wiki de l'ENSTA."
   - name: Zeus
     url: https://zeus.data-ensta.fr
+    desc: "Serveur de calcul (GPU) mis à disposition des élèves."
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
