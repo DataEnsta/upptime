@@ -1,7 +1,7 @@
 url: https://enstagram-drive.data-ensta.fr
-status: up
-code: 200
-responseTime: 6643
-lastUpdated: 2025-09-21T23:17:03.271Z
+status: down
+code: 502
+responseTime: 3853
+lastUpdated: 2025-09-22T08:53:42.407Z
 startTime: 2025-03-15T13:44:50.279Z
 generator: Upptime <https://github.com/upptime/upptime>
