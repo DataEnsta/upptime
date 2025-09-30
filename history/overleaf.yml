@@ -1,7 +1,7 @@
 url: https://overleaf.data-ensta.fr
-status: up
-code: 200
-responseTime: 584
-lastUpdated: 2025-09-29T23:17:09.356Z
+status: down
+code: 502
+responseTime: 3799
+lastUpdated: 2025-09-30T20:30:52.578Z
 startTime: 2025-07-18T21:54:07.852Z
 generator: Upptime <https://github.com/upptime/upptime>
