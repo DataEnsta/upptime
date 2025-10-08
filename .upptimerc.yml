@@ -91,6 +91,9 @@ sites:
   - name: Technimage
     url: $TECHNIMAGE
     desc: false
+  - name: La Toile
+    url: https://toile.data-ensta.fr
+    desc: "Toile collaborative en pixel-art, similaire à [r/place](https://en.wikipedia.org/wiki/R/place)."
   - name: Tiny
     url: https://tiny.data-ensta.fr
     desc: "Raccourcisseur d'URL."
