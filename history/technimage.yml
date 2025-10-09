@@ -1,7 +1,7 @@
 url: $TECHNIMAGE
-status: up
-code: 200
-responseTime: 663
-lastUpdated: 2025-10-08T23:17:14.049Z
+status: down
+code: 502
+responseTime: 2398
+lastUpdated: 2025-10-09T06:46:34.200Z
 startTime: 2023-08-21T18:45:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
