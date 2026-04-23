@@ -53,7 +53,7 @@
     "timeMonth": 856,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2026-04-23": 217,
+      "2026-04-23": 265,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -591,18 +591,19 @@
     "url": "https://cascad.ensta.fr/login",
     "icon": "https://icons.duckduckgo.com/ip3/cascad.ensta.fr.ico",
     "slug": "cascad",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "84.82%",
-    "uptimeWeek": "75.87%",
-    "uptimeMonth": "80.74%",
-    "uptimeYear": "98.39%",
-    "time": 1078,
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "84.78%",
+    "uptimeWeek": "76.34%",
+    "uptimeMonth": "80.89%",
+    "uptimeYear": "98.41%",
+    "time": 1079,
     "timeDay": 848,
     "timeWeek": 957,
     "timeMonth": 940,
     "timeYear": 1221,
     "dailyMinutesDown": {
+      "2026-04-23": 1,
       "2026-04-22": 218,
       "2026-04-21": 328,
       "2026-04-20": 411,
@@ -630,7 +631,7 @@
       "2026-03-27": 154,
       "2026-03-26": 247,
       "2026-03-25": 165,
-      "2026-03-24": 156
+      "2026-03-24": 91
     }
   },
   {
@@ -921,7 +922,7 @@
     "timeMonth": 656,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2026-04-23": 217,
+      "2026-04-23": 266,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -1758,7 +1759,7 @@
     "timeMonth": 618,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2026-04-23": 218,
+      "2026-04-23": 266,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -2142,7 +2143,7 @@
     "timeMonth": 627,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2026-04-23": 218,
+      "2026-04-23": 266,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 1440,
@@ -2570,7 +2571,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.79%",
+    "uptimeYear": "59.80%",
     "time": 861,
     "timeDay": 569,
     "timeWeek": 753,
