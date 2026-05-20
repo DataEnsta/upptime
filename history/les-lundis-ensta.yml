@@ -1,7 +1,7 @@
 url: https://les-lundis.ensta-paris.fr
-status: up
-code: 200
-responseTime: 477
-lastUpdated: 2026-05-20T00:13:30.589Z
+status: down
+code: 503
+responseTime: 364
+lastUpdated: 2026-05-20T23:50:10.314Z
 startTime: 2023-07-17T22:48:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
