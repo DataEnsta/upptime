@@ -1,7 +1,7 @@
 url: https://grafana.data-ensta.fr
-status: down
-code: 500
-responseTime: 6135
-lastUpdated: 2026-08-02T23:32:27.150Z
+status: up
+code: 200
+responseTime: 1829
+lastUpdated: 2026-08-03T00:04:02.993Z
 startTime: 2025-07-20T16:15:48.853Z
 generator: Upptime <https://github.com/upptime/upptime>
