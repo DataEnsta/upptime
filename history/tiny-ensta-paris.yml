@@ -1,7 +1,7 @@
 url: https://t.ensta-paris.fr
-status: up
-code: 200
-responseTime: 1255
-lastUpdated: 2026-10-04T02:30:11.860Z
+status: down
+code: 502
+responseTime: 3876
+lastUpdated: 2026-10-04T23:46:32.845Z
 startTime: 2023-07-17T22:48:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
