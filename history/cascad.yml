@@ -1,7 +1,7 @@
 url: https://cascad.ensta.fr/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-27T13:57:29.253Z
+status: up
+code: 200
+responseTime: 845
+lastUpdated: 2026-11-27T22:30:02.921Z
 startTime: 2023-10-01T09:26:19.559Z
 generator: Upptime <https://github.com/upptime/upptime>
